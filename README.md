@@ -17,8 +17,8 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 
 ---
 
-## 🔩 Hardware Components  
-
+## 🔩 Hardware Components 
+ 
 | Component | Model/Specs |
 |-----------|------------|
 | **Frame** | Q450 Quadcopter Frame – PCB Version |
@@ -35,29 +35,19 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 ## Images 📸
 
 ### Drone Frame
-![18913](https://github.com/user-attachments/assets/c58fcbee-8dac-4fa8-bec4-75ac4c28a955)
-
-
+![18913 (1)](https://github.com/user-attachments/assets/e0412343-cf54-4f22-a522-c21a4386a39b)
 ### Flight Controller (APM 2.8)
-![apm-2 8-arducopter-3-550x550](https://github.com/user-attachments/assets/5ffce0f4-67d6-4b06-95f4-4c5277129909)
-
-
+![apm-2 8-arducopter-3-550x550 (1)](https://github.com/user-attachments/assets/79bb7423-d160-4779-af4f-6a9f637b9061)
 ### GPS Module
-![](https://github.com/user-attachments/assets/de4ab673-b83a-4b14-b5b6-66151c4ab554)
-
+![Robu in-2 (1)](https://github.com/user-attachments/assets/991df204-4729-400a-b53c-075a28e76804)
 ### ESC & Motors
-![](https://github.com/user-attachments/assets/2d8ce58d-c36f-4185-9550-399d0d9564a1_)
-![](https://github.com/user-attachments/assets/f547a0f8-9c27-4fce-a483-769b98a1bbde)
-
+![71WwdOJgAkL (1)](https://github.com/user-attachments/assets/81a84741-f038-4a02-998b-61b24f64b0c6)
+![1732946058294-img_6211_600x_11zo (1)](https://github.com/user-attachments/assets/33d4604b-8cdb-4f5e-aee0-46297b9733fe)
 ### Transmitter
-![](https://github.com/user-attachments/assets/1564f1a1-d3ae-4c17-b561-dcd407d4eec5)
-
+![robu-1 (1)](https://github.com/user-attachments/assets/719ed6c5-0b93-42d0-ae25-116735eba1da)
 ### AI Processing Board (Jetson Nano/Raspberry Pi)
-![uPM0FTbEew-CdV8Vm41PhYS38Ye2RwXm](https://github.com/user-attachments/assets/624fb647-cfc3-4ba5-8594-82a622e1ba79)
-![jetson-nano-og-100](https://github.com/user-attachments/assets/d0e1eb6a-eb5b-46e4-8194-f0395387d6f9)
-
-
-
+![uPM0FTbEew-CdV8Vm41PhYS38Ye2RwXm (1)](https://github.com/user-attachments/assets/46efd5e0-2f7a-488b-8627-66c00abf3ea6)
+![jetson-nano-og-100 (1)](https://github.com/user-attachments/assets/b567894c-34c5-45cd-9fa5-015aea46dfed)
 ## Setup Instructions
 1. **Assemble the Frame**: Attach the arms, motors, and propellers.
 2. **Install Flight Controller**: Connect the APM 2.8 to the drone frame.
@@ -71,7 +61,7 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 6. **Autonomous Mode**:
    - Configure **GPS waypoints** in **Mission Planner**
    - Enable **object tracking** with AI model
-   - ![FY42D6YJ3YPUBHR](https://github.com/user-attachments/assets/7e35200d-ddc7-4ecb-bca1-c70ee8de156a)
+![FY42D6YJ3YPUBHR](https://github.com/user-attachments/assets/7e35200d-ddc7-4ecb-bca1-c70ee8de156a)
 
 ---
 
