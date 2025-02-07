@@ -19,12 +19,44 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 | **Frame** | Q450 Quadcopter Frame – PCB Version |
 | **Motors** | EMAX MT2213 935KV BLDC (CW & CCW) |
 | **ESCs** | Emax BLHeli Series 30A with Oneshot |
-| **Flight Controller** | Pixhawk PX4 Autopilot PIX 2.4.8 / APM 2.8 |
+| **Flight Controller** | APM 2.8 |
 | **GPS Module** | Ublox NEO-M8N |
 | **Transmitter** | Flysky FS-i6X 2.4GHz 10CH |
 | **Battery** | Orange 5200mAh 3S 40C/80C LiPo |
 | **Other Accessories** | XT60 Connectors, Lipo Voltage Checker, Servo Leads |
 
+---
+
+## Images 📸
+
+### Drone Frame
+![F450 Frame](./F450-my-first-DIY-Quadcopter.png)
+
+### Flight Controller (APM 2.8)
+![APM 2.8](./apm-2.8-arducopter-3-550x550.png)
+
+### AI Processing Board (Jetson Nano/Raspberry Pi)
+![Jetson Nano](./71WwdOJgAkL.png)
+
+### GPS Module
+![GPS Module](./1732946058294-img_6211_600x_11zo.png)
+
+### ESC & Motors
+![ESC & Motors](./18913.png)
+
+## Setup Instructions
+1. **Assemble the Frame**: Attach the arms, motors, and propellers.
+2. **Install Flight Controller**: Connect the APM 2.8 to the drone frame.
+3. **Power Supply**: Connect the LiPo battery and check voltage levels.
+4. **AI Setup**:
+   - Install **Jetson Nano/Raspberry Pi**
+   - Set up **OpenCV & TensorFlow** for object tracking
+5. **Flight Testing**:
+   - Calibrate the **gyroscope & accelerometer**
+   - Run initial test flights in **stabilize mode**
+6. **Autonomous Mode**:
+   - Configure **GPS waypoints** in **Mission Planner**
+   - Enable **object tracking** with AI model
 ---
 
 ## 🧠 How It Works  
@@ -59,8 +91,8 @@ If you love drones, AI, and crazy experiments with flying machines, consider:
 
 ## 📸 Images & Videos  
 
-🚀 [![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)
-]  
+🚀 [
+![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)]  
 
 ---
 
