@@ -1,8 +1,8 @@
 # 🚁 SkyRanger - The AI-Ready Quadcopter 🚀  
 ## 📸 Images & Videos  
 
-🚀 [
-![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)]  
+🚀 
+![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)  
 
 
 ### 🛠️ Built with Love, Tech & A Bit of Hope for Sponsorship 😆  
@@ -35,14 +35,14 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 ## Images 📸
 
 ### Drone Frame
-![F450 Frame](![18913](https://github.com/user-attachments/assets/c58fcbee-8dac-4fa8-bec4-75ac4c28a955)
+(![18913](https://github.com/user-attachments/assets/c58fcbee-8dac-4fa8-bec4-75ac4c28a955)
 )
 
 ### Flight Controller (APM 2.8)
-![APM 2.8](.![apm-2 8-arducopter-3-550x550](https://github.com/user-attachments/assets/5ffce0f4-67d6-4b06-95f4-4c5277129909))
+(.![apm-2 8-arducopter-3-550x550](https://github.com/user-attachments/assets/5ffce0f4-67d6-4b06-95f4-4c5277129909))
 
 ### AI Processing Board (Jetson Nano/Raspberry Pi)
-![Jetson Nano](./71WwdOJgAkL.png)
+(./71WwdOJgAkL.png)
 
 ### GPS Module
 ![GPS Module](![Robu in-2](https://github.com/user-attachments/assets/de4ab673-b83a-4b14-b5b6-66151c4ab554))
