@@ -1,10 +1,10 @@
-# 🚁 SkyRanger - The AI-Ready Quadcopter 🚀  
+# 🚁 HawkEye-Drone - The AI-Ready Quadcopter 🚀  
 ## 📸 Images & Videos  
 ![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/208f76d7-c0a2-4666-a0ad-573b974c6d4a)
 
 ### 🛠️ Built with Love, Tech & A Bit of Hope for Sponsorship 😆  
 
-Welcome to **SkyRanger**, my final year drone project! This quadcopter is built using **APM 2.8 / Pixhawk PX4**, packed with high-precision sensors, and is ready for action. In the future, I plan to **integrate Raspberry Pi or Jetson Nano for AI-powered object tracking and autonomous navigation**. If you're an awesome sponsor looking to support a tech enthusiast—well, **here’s your chance to make the future fly!** 😎  
+Welcome to **HawkEye-Drone**, my final year drone project! This quadcopter is built using **APM 2.8 / Pixhawk PX4**, packed with high-precision sensors, and is ready for action. In the future, I plan to **integrate Raspberry Pi or Jetson Nano for AI-powered object tracking and autonomous navigation**. If you're an awesome sponsor looking to support a tech enthusiast—well, **here’s your chance to make the future fly!** 😎  
 
 ---
 
