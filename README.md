@@ -1,4 +1,9 @@
 # 🚁 SkyRanger - The AI-Ready Quadcopter 🚀  
+## 📸 Images & Videos  
+
+🚀 [
+![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)]  
+
 
 ### 🛠️ Built with Love, Tech & A Bit of Hope for Sponsorship 😆  
 
@@ -30,19 +35,25 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 ## Images 📸
 
 ### Drone Frame
-![F450 Frame](./F450-my-first-DIY-Quadcopter.png)
+![F450 Frame](![18913](https://github.com/user-attachments/assets/c58fcbee-8dac-4fa8-bec4-75ac4c28a955)
+)
 
 ### Flight Controller (APM 2.8)
-![APM 2.8](./apm-2.8-arducopter-3-550x550.png)
+![APM 2.8](.![apm-2 8-arducopter-3-550x550](https://github.com/user-attachments/assets/5ffce0f4-67d6-4b06-95f4-4c5277129909))
 
 ### AI Processing Board (Jetson Nano/Raspberry Pi)
 ![Jetson Nano](./71WwdOJgAkL.png)
 
 ### GPS Module
-![GPS Module](./1732946058294-img_6211_600x_11zo.png)
+![GPS Module](![Robu in-2](https://github.com/user-attachments/assets/de4ab673-b83a-4b14-b5b6-66151c4ab554))
 
 ### ESC & Motors
-![ESC & Motors](./18913.png)
+![ESC & Motors](![71WwdOJgAkL](https://github.com/user-attachments/assets/2d8ce58d-c36f-4185-9550-399d0d9564a1)
+![1732946058294-img_6211_600x_11zo](https://github.com/user-attachments/assets/f547a0f8-9c27-4fce-a483-769b98a1bbde)
+)
+### Transmitter
+![Flysky FS-i6X 2.4GHz 10CH](![robu-1](https://github.com/user-attachments/assets/1564f1a1-d3ae-4c17-b561-dcd407d4eec5))
+
 
 ## Setup Instructions
 1. **Assemble the Frame**: Attach the arms, motors, and propellers.
@@ -57,6 +68,8 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 6. **Autonomous Mode**:
    - Configure **GPS waypoints** in **Mission Planner**
    - Enable **object tracking** with AI model
+   - ![FY42D6YJ3YPUBHR](https://github.com/user-attachments/assets/7e35200d-ddc7-4ecb-bca1-c70ee8de156a)
+
 ---
 
 ## 🧠 How It Works  
@@ -89,10 +102,6 @@ If you love drones, AI, and crazy experiments with flying machines, consider:
 
 ---
 
-## 📸 Images & Videos  
-
-🚀 [
-![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)]  
 
 ---
 
