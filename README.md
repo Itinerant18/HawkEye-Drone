@@ -61,6 +61,8 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 6. **Autonomous Mode**:
    - Configure **GPS waypoints** in **Mission Planner**
    - Enable **object tracking** with AI model
+   - 
+
 ![FY42D6YJ3YPUBHR](https://github.com/user-attachments/assets/7e35200d-ddc7-4ecb-bca1-c70ee8de156a)
 
 ---
