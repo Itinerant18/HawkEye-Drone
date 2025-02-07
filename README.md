@@ -41,8 +41,6 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 ### Flight Controller (APM 2.8)
 ![apm-2 8-arducopter-3-550x550](https://github.com/user-attachments/assets/5ffce0f4-67d6-4b06-95f4-4c5277129909)
 
-### AI Processing Board (Jetson Nano/Raspberry Pi)
-(./71WwdOJgAkL.png)
 
 ### GPS Module
 ![](https://github.com/user-attachments/assets/de4ab673-b83a-4b14-b5b6-66151c4ab554)
@@ -53,6 +51,11 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 
 ### Transmitter
 ![](https://github.com/user-attachments/assets/1564f1a1-d3ae-4c17-b561-dcd407d4eec5)
+
+### AI Processing Board (Jetson Nano/Raspberry Pi)
+![uPM0FTbEew-CdV8Vm41PhYS38Ye2RwXm](https://github.com/user-attachments/assets/624fb647-cfc3-4ba5-8594-82a622e1ba79)
+![jetson-nano-og-100](https://github.com/user-attachments/assets/d0e1eb6a-eb5b-46e4-8194-f0395387d6f9)
+
 
 
 ## Setup Instructions
