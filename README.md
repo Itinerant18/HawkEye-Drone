@@ -59,7 +59,8 @@ If you love drones, AI, and crazy experiments with flying machines, consider:
 
 ## 📸 Images & Videos  
 
-🚀 [Add your drone images and flight test videos here]  
+🚀 [![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/027bb493-0652-4f2d-b024-53699a95abec)
+]  
 
 ---
 
