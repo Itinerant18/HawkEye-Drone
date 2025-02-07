@@ -1,10 +1,6 @@
 # 🚁 SkyRanger - The AI-Ready Quadcopter 🚀  
 ## 📸 Images & Videos  
-
-##🚀
 ![F450-my-first-DIY-Quadcopter](https://github.com/user-attachments/assets/208f76d7-c0a2-4666-a0ad-573b974c6d4a)
-
-
 
 ### 🛠️ Built with Love, Tech & A Bit of Hope for Sponsorship 😆  
 
