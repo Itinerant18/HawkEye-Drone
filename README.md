@@ -93,9 +93,6 @@ This project is a custom-built **quadcopter drone** designed for **autonomous fl
 - **FPV (First-Person View) Camera for live streaming**
 - **AI-Based Object Tracking using Raspberry Pi/Jetson Nano**
 
-## 📜 License
-This project is open-source under the **MIT License**.
 
----
 
 📌 **Contributions & Feedback:** Feel free to contribute by submitting issues, pull requests, or improvements!
