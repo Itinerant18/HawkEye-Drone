@@ -45,14 +45,14 @@ Welcome to **SkyRanger**, my final year drone project! This quadcopter is built 
 (./71WwdOJgAkL.png)
 
 ### GPS Module
-![GPS Module](![Robu in-2](https://github.com/user-attachments/assets/de4ab673-b83a-4b14-b5b6-66151c4ab554))
+(!https://github.com/user-attachments/assets/de4ab673-b83a-4b14-b5b6-66151c4ab554)
 
 ### ESC & Motors
-![ESC & Motors](![71WwdOJgAkL](https://github.com/user-attachments/assets/2d8ce58d-c36f-4185-9550-399d0d9564a1)
-![1732946058294-img_6211_600x_11zo](https://github.com/user-attachments/assets/f547a0f8-9c27-4fce-a483-769b98a1bbde)
+(!(https://github.com/user-attachments/assets/2d8ce58d-c36f-4185-9550-399d0d9564a1)
+!https://github.com/user-attachments/assets/f547a0f8-9c27-4fce-a483-769b98a1bbde)
 )
 ### Transmitter
-![Flysky FS-i6X 2.4GHz 10CH](![robu-1](https://github.com/user-attachments/assets/1564f1a1-d3ae-4c17-b561-dcd407d4eec5))
+(!https://github.com/user-attachments/assets/1564f1a1-d3ae-4c17-b561-dcd407d4eec5)
 
 
 ## Setup Instructions
